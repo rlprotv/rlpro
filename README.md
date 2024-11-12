@@ -1,1 +1,1 @@
-{"categories":[{"name":"Movies","videos":[{"description":"RLPRO TV votre chaine de Découverte","sources":["https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"],"subtitles":"All channel","thumb":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","title":"RLPRO TV"}]}]}
+{"categories":[{"name":"Movies","videos":[{"description":"RLPRO TV votre chaine de Découverte","sources":["https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"],"subtitles":"Ecoutez la Radio RLPRO","thumb":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","title":"RLPRO TV"}]}]}
